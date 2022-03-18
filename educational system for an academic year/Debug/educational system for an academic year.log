@@ -1,0 +1,10 @@
+﻿  Source.cpp
+E:\pro\educational system for an academic year\educational system for an academic year\Source.cpp(120,20): warning C4018: '<': signed/unsigned mismatch
+E:\pro\educational system for an academic year\educational system for an academic year\Source.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+E:\pro\educational system for an academic year\educational system for an academic year\Source.cpp(158,20): warning C4018: '<': signed/unsigned mismatch
+E:\pro\educational system for an academic year\educational system for an academic year\Source.cpp(246,21): warning C4018: '<': signed/unsigned mismatch
+E:\pro\educational system for an academic year\educational system for an academic year\Source.cpp(281,21): warning C4018: '<': signed/unsigned mismatch
+E:\pro\educational system for an academic year\educational system for an academic year\Source.cpp(299,21): warning C4018: '<': signed/unsigned mismatch
+E:\pro\educational system for an academic year\educational system for an academic year\Source.cpp(306,21): warning C4018: '<': signed/unsigned mismatch
+E:\pro\educational system for an academic year\educational system for an academic year\Source.cpp(308,67): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  educational system for an academic year.vcxproj -> E:\pro\educational system for an academic year\Debug\educational system for an academic year.exe
